@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Make a daily update - 24f3001971@ds.study.iitm.ac.in
+      - name: Update log 24f3001971@ds.study.iitm.ac.in
         run: |
           echo "Daily update on $(date)" >> daily_log.txt
 
