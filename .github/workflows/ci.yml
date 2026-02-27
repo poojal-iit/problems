@@ -17,3 +17,4 @@ jobs:
 
       - name: Say Hello
         run: echo "Workflow is running successfully!"
+[![CI](https://github.com/poojal-iit/problems/actions/workflows/ci.yml/badge.svg)](https://github.com/poojal-iit/problems/actions/workflows/ci.yml)
